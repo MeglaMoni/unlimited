@@ -30,5 +30,6 @@ while y<i:
     requests.post(url, data = myobj2, headers = {"x-app-key":"000oc0so48owkw4s0wwo4c00g00804w80gwkw8kg"})
 
     y=y+1
-    print(y,end =" "),
+    print(y)
+
 print("\nCounting Completed")
